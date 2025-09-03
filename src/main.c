@@ -12,7 +12,6 @@ static void menu(){
     printf("0. Exit\n");
     printf("Choice: ");
 }
-
 int main(void){
     int c;
     while(1){
